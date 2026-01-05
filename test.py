@@ -1,3 +1,4 @@
+# Program to test scikit-learn library
 from sklearn.tree import DecisionTreeClassifier
 
 # Sample data: [Age, Income]

@@ -1,0 +1,6 @@
+Word_Count,Has_Links,Has_Special_Chars,Spam
+100,Yes,No,No
+50,Yes,Yes,Yes
+300,No,No,No
+80,No,Yes,Yes
+200,Yes,Yes,Yes
